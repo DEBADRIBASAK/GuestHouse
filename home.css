@@ -1,0 +1,56 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+body{
+  background-color: rgb(167, 201, 195);
+}
+.jumbotron{
+  margin-top: 100px;
+  height: 100%;
+  background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Wallstreet_-_A_New_Era.jpg/800px-Wallstreet_-_A_New_Era.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.left{
+  position: relative;
+  margin-left: 150px;
+  margin-top: 100px;
+  width:300px;
+  height: 300px;
+  background-color: rgba(203, 219, 216,0.7);
+  border-radius: 10px;
+}
+.right{
+  position: absolute;
+  margin-left: 600px;
+  margin-top: -300px;
+  width:300px;
+  height: 300px;
+  background-color: rgba(203, 219, 216,0.7);
+  border-radius: 10px;
+}
+.log{
+  margin-left: 30px;
+  padding-top: 100px;
+  font-family: 'Crimson Text', serif;
+}
+#log{
+  margin-left: 80px;
+  width: 50%;
+  margin-top: 20px;
+}
+.sign{
+  margin-left: 30px;
+  padding-top: 50px;
+  font-family: 'Crimson Text', serif;
+}
+.com{
+  margin-left: 14px;
+}
+#sign{
+  margin-left: 80px;
+  width: 50%;
+  margin-top: 20px;
+}
