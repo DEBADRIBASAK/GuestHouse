@@ -1,0 +1,90 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+body{
+  background-color: rgba(5, 122, 1,0.8);
+}
+.main{
+  border: 1px solid black;
+  width:80%;
+  height: 1200px;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 10px 10px 8px black;
+  margin-bottom: 40px;
+}
+.name{
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: bold;
+  font-size: 40px;
+  margin-left: 20px;
+}
+.branch{
+  margin-left: 20px;
+  margin-top: -14px;
+  font-family: 'Rancho', cursive;
+  color:rgb(152, 178, 151);
+}
+.bio{
+  font-family: 'Rancho', cursive;
+  margin-left: 30px;
+  margin-top: 10px;
+  padding-top: -7px;
+  font-size: 20px;
+  margin-right: 30px;
+  color:rgb(152, 178, 151);
+}
+#bio{
+  font-family: 'Rancho', cursive;
+  margin-left: 30px;
+  font-size: 25px;
+  margin-top: 28px;
+}
+.part1{
+  position: relative;
+  width: 50%;
+  height: 480px;
+  border:1px solid white;
+  background-color: white;
+}
+.part2{
+  position: absolute;
+  width: 34%;
+  margin-left: 453px;
+  margin-top: -480px;
+  height: 480px;
+  background: url("https://image.freepik.com/free-photo/blur-image-background-of-corridor-office-hospital-walkway_9693-1673.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.part3{
+    width: 50%;
+    background: url(4.jpg);
+    margin-top: -20px;
+    height: 719px;
+}
+.part4{
+  position: absolute;
+  height:700px;
+  margin-left: 454px;
+  width: 34%;
+  margin-top: -700px;
+  background-color: white;
+  padding-left: 30px;
+  padding-top: 120px;
+}
+.com{
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 20px;
+}
+.icon{
+  color: white;
+  float: right;
+  margin-right: 10px;
+}
+.top{
+  background-color: black;
+  height: 20px;
+}
